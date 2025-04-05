@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.4.5)  5 APR 2025 11:11
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.4.5)  5 APR 2025 11:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -128,8 +128,7 @@ File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
 \l__pdf_internal_box=\box54
 \g__pdf_backend_annotation_int=\count279
 \g__pdf_backend_link_int=\count280
-)
-No file latex.aux.
+) (./latex.aux)
 \openout1 = `latex.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -149,7 +148,7 @@ LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 14.
-(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 14.
@@ -166,12 +165,12 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2175 strings out of 473832
- 31575 string characters out of 5729482
- 411730 words of memory out of 5000000
- 25252 multiletter control sequences out of 15000+600000
+ 2178 strings out of 473832
+ 31617 string characters out of 5729482
+ 412730 words of memory out of 5000000
+ 25253 multiletter control sequences out of 15000+600000
  563522 words of font info for 59 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 57i,6n,65p,217b,219s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,6n,65p,413b,219s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on latex.pdf (1 page).
